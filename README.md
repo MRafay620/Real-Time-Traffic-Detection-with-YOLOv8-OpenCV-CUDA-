@@ -91,17 +91,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Demo
-
-🚦 Example Output:
-```
-Using device: cuda
-Vehicles detected: 12
-```
-
-![Traffic Detection Example](https://via.placeholder.com/640x480?text=Traffic+Detection+Demo)
-
----
 
 ## 💜 License
 
@@ -111,8 +100,8 @@ Vehicles detected: 12
 
 ## ✨ Credits
 
-👨‍💻 Developed by **Your Name**  
-🔗 [GitHub](https://github.com/your-username) | 🐙 [Twitter](https://twitter.com/your-twitter)  
+👨‍💻 Developed by **Muhammad Rafay**  
+🔗 [GitHub](https://github.com/MRafay620)  
 
 ---
 
